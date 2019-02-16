@@ -11,4 +11,5 @@ The student is to implement and/or modify a connected components program so that
 
 ## Library
 Pandas: use dataframe to store each object's features
+
 OpenCV: process image
