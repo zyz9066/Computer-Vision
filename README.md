@@ -1,4 +1,4 @@
-# CS463-563-Computer-Vision-Image-Analysis
+# CS563-Image-Analysis
 Coursework for image analysis
 
 # Assignment 1 Binary Image Processing
