@@ -13,3 +13,10 @@ The student is to implement and/or modify a connected components program so that
 Pandas: use dataframe to store each object's features
 
 OpenCV: process image
+
+# Assignment 2 Image Enhancement and Edge Detection
+
+The first objective of the assignment is to implement image enhancement techniques. After enhancing the image, your solution must provide a selection of edge detectors to extract the contours of the image. 
+
+## Libraries
+OpenCV, numpy, pillow, matplotlib
