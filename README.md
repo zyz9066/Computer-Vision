@@ -16,7 +16,9 @@ OpenCV: process image
 
 ## Assignment 2 Image Enhancement and Edge Detection
 
-The first objective of the assignment is to implement image enhancement techniques. After enhancing the image, your solution must provide a selection of edge detectors to extract the contours of the image. 
+The first objective of the assignment is to implement image enhancement techniques. After enhancing the image, your solution must provide a selection of edge detectors to extract the contours of the image.
+
+In this assignment, I have implemented a simple GUI for user adjusting different techniques to get the best result they needed.
 
 ### Libraries
-OpenCV, numpy, pillow, matplotlib
+OpenCV, numpy, pillow, matplotlib, tkinter
