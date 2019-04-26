@@ -24,7 +24,7 @@ In this assignment, I have implemented a simple GUI for user adjusting different
 OpenCV, numpy, pillow, matplotlib, tkinter
 
 
-## Final Project
+## Final Project: Face Tracking using Meanshift
 Project name: Face tracking using meanshift
 
 ### Quick demo
