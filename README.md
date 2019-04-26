@@ -1,5 +1,5 @@
 # CS563-Image-Analysis
-Coursework for image analysis
+Courseworks and Project for image analysis.
 
 ## Assignment 1 Binary Image Processing
 
@@ -28,7 +28,7 @@ OpenCV, numpy, pillow, matplotlib, tkinter
 Project name: Face tracking using meanshift
 
 ### Quick demo
-please visit [here](https://drive.google.com/file/d/13NmlB9p51czy72iKu2ggzDUmaqRnlIAm/view?usp=sharing) for CPU version and [here](https://drive.google.com/file/d/1i6L8PB3JzvICeJUm6hnmtzqDKfvhrMGl/view?usp=sharing) for GPU version.
+Please visit [here](https://drive.google.com/file/d/13NmlB9p51czy72iKu2ggzDUmaqRnlIAm/view?usp=sharing) for CPU version and [here](https://drive.google.com/file/d/1i6L8PB3JzvICeJUm6hnmtzqDKfvhrMGl/view?usp=sharing) for GPU version.
 
 Obviously GPU implementation achieved a speedup compared to traditional CPU-based tracking methods.  
 
