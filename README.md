@@ -35,6 +35,8 @@ Obviously GPU implementation achieved a speedup compared to traditional CPU-base
 ### Dependency
 OpenCV, numpy, matplotlib, time, PyCUDA, CUDA Toolkit 10.1
 
+GPU: GeForce GTX 1050
+
 All dependency on local machine has to be set up before running it.
 
 Input: computer camera
