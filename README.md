@@ -43,12 +43,12 @@ Input: computer camera
 
 Output: runtime for calculating back projection in each step
 
-"face_tracking_by_meanshift_cpu.py" incorporates CPU version of the histogram calculation and back projection calculation.
+`face_tracking_by_meanshift_cpu.py` incorporates CPU version of the histogram calculation and back projection calculation.
 It includes basic face detection and tracking task as well as printing runtime.
 
-"face_tracking_by_meanshift_gpu.py" incorporates GPU version of the histogram calculation and back projection calculation.
+`face_tracking_by_meanshift_gpu.py` incorporates GPU version of the histogram calculation and back projection calculation.
 It includes basic face detection and tracking task as well as printing runtime and speedup.
 
-To run the code, simply run "python face_tracking_by_meanshift_cpu.py" or "python face_tracking_by_meanshift_gpu.py".
+To run the code, simply run `python face_tracking_by_meanshift_cpu.py` or `python face_tracking_by_meanshift_gpu.py`.
 
 The computer must be equiped with camera before running source code. It is recommended that user might select a good initial tracking window before start tracking.
