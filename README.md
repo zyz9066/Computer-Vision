@@ -1,7 +1,7 @@
-# CS563-Image-Analysis
-Courseworks and Project for image analysis.
+# Computer Vision
+Courseworks and Project for computer vision.
 
-## Assignment 1: Binary Image Processing
+## Binary Image Processing
 
 The objective of this project is to gain experience with connected components analysis, morphological filters and the use of features computed within it for recognition of objects. A secondary objective is to gain experience with image formats. 
 
@@ -14,7 +14,7 @@ Pandas: use dataframe to store each object's features
 
 OpenCV: process image
 
-## Assignment 2: Image Enhancement and Edge Detection
+## Image Enhancement and Edge Detection
 
 The first objective of the assignment is to implement image enhancement techniques. After enhancing the image, your solution must provide a selection of edge detectors to extract the contours of the image.
 
